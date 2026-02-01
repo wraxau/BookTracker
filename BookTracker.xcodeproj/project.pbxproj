@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		22E2D62B2F2EA01C00CC2135 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E2D62A2F2EA01C00CC2135 /* SearchViewController.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		22471DD22F294E8A00E70FAC /* BookTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BookTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		22E2D62A2F2EA01C00CC2135 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -45,6 +50,7 @@
 		22471DC92F294E8A00E70FAC = {
 			isa = PBXGroup;
 			children = (
+				22E2D62A2F2EA01C00CC2135 /* SearchViewController.swift */,
 				22471DD42F294E8A00E70FAC /* BookTracker */,
 				22471DD32F294E8A00E70FAC /* Products */,
 			);
@@ -132,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				22E2D62B2F2EA01C00CC2135 /* SearchViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -148,11 +155,13 @@
 				DEVELOPMENT_TEAM = 9YGPNW594Y;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = BookTracker/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.books";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -184,11 +193,13 @@
 				DEVELOPMENT_TEAM = 9YGPNW594Y;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = BookTracker/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.books";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
