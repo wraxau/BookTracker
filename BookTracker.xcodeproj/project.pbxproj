@@ -15,22 +15,9 @@
 		22E2D62A2F2EA01C00CC2135 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		22471DE72F294E9300E70FAC /* Exceptions for "BookTracker" folder in "BookTracker" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 22471DD12F294E8A00E70FAC /* BookTracker */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		22471DD42F294E8A00E70FAC /* BookTracker */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				22471DE72F294E9300E70FAC /* Exceptions for "BookTracker" folder in "BookTracker" target */,
-			);
 			path = BookTracker;
 			sourceTree = "<group>";
 		};
