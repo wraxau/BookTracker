@@ -39,8 +39,8 @@
 
 ## Скриншоты возможностей приложения
 
-| Launch Screen || Welcome Screen | Поиск | Результат поиска книги | Страница выбранной книги | Добавили книгу в список | Мои книги | Удаление книги |
-|---------------||---------------|-------|--------------|-----------|-----------|-----------|-----------|
+| Launch Screen | Welcome Screen | Поиск | Результат поиска книги | Страница выбранной книги | Добавили книгу в список | Мои книги | Удаление книги |
+|---------------|---------------|-------|--------------|-----------|-----------|-----------|-----------|
 | ![LaunchScreen](Screenshots/launchScreen.png) | ![Splash](Screenshots/welcomeView.png) | ![Search](Screenshots/searchBook.png) | ![AvailableBookListFromAPI](Screenshots/listOfMatchBooks.png) | ![BookDescription](Screenshots/bookCard.png) |![AddBook](Screenshots/addBookToList.png) |![List](Screenshots/resultOfFirstAction.png) |![DeleteBook](Screenshots/canDeleteBookFromBothLists.png) |
 
 ---
